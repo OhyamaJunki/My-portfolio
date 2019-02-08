@@ -1,0 +1,36 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  font-family: "impact";
+}
+
+.header {
+  background-color: #696969;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list {
+  float: right;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
