@@ -57,6 +57,11 @@ body {
   margin:0;
   padding:0;
   font-size:60px;
+
+}
+
+.about{
+  background-color: #ffffe0;
 }
 
 .about_top{
@@ -65,15 +70,17 @@ body {
 
 .about_mian{
   text-align: center;
-  height
 }
 
-.about_main p{
+.about_main span{
   float:left;
   line-height: 80px;
   margin-left: 30px;
 }
 
+span{
+  height:200px;
+}
 
 .about_main .introduction{
   display: flex;
@@ -82,4 +89,15 @@ body {
   font-size: 20px;
   height:200px;
   padding-left:70px;
+  padding-right:60px
+}
+
+.skill_top{
+  text-align: center;
+}
+
+.skill_main p{
+width:50%;
+float:left;
+margin-top:20px;
 }
