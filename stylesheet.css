@@ -58,3 +58,28 @@ body {
   padding:0;
   font-size:60px;
 }
+
+.about_top{
+  text-align: center;
+}
+
+.about_mian{
+  text-align: center;
+  height
+}
+
+.about_main p{
+  float:left;
+  line-height: 80px;
+  margin-left: 30px;
+}
+
+
+.about_main .introduction{
+  display: flex;
+	align-items: center;
+  text-align: center;
+  font-size: 20px;
+  height:200px;
+  padding-left:70px;
+}
