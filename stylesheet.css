@@ -68,6 +68,7 @@ body {
 .about_top{
   text-align: center;
   background-color: #FFFF66;
+
 }
 
 .about_mian{
@@ -116,4 +117,30 @@ text-align: center;
 width:50%;
 float:left;
 margin-top:20px;
+}
+
+.works{
+  background-color: #ffffe0;
+}
+
+.works_top{
+  background-color:#66CCFF;
+  text-align: center;
+}
+.works_main{
+  height: 300px;
+  font-size: 60px
+}
+
+.works_main h4{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.contact{
+  background-color: #FFA500;
+}
+
+.contact_top{
+  text-align: center;
 }
